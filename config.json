@@ -1,6 +1,8 @@
 {
 	
 	"Profil" : {
+		"Telegram" : "t.me/agathasangkara"
+		"Facebook" : "https://www.facebook.com/profile.php?id=100086675272346",
 		"Github" : "https://github.com/admkrny1",
 	},
 	
@@ -15,7 +17,7 @@
 		},
 	
 	"Spotify" : {
-		"password" : "jojisedih",
+		"password" : "Jojisedih",
 		"apikey_spotify" : "c1ec42ba51584cf9b6b0a6382fc09600"
 		}
 
